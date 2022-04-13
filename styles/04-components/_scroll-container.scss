@@ -1,0 +1,34 @@
+.scroll-container {
+    margin: 0 0 2.5rem;
+    padding: .5rem 1rem 1rem;
+    border-radius: 8px;
+    background: var(--white);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, .2);
+    overflow: hidden;
+}
+
+.scroll-container__content {
+
+    scroll-behavior: smooth;
+}
+
+.scroll__wrapper {
+    display: flex;
+    margin-bottom: 2.5rem;
+    color: var(--black);
+
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+
+    li {
+        font-weight: 400;
+    }
+
+    span {
+        display: block;
+        font-weight: 300;
+    }
+}

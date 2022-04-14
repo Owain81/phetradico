@@ -29,9 +29,6 @@ export default function Article() {
                         <li>
                             <span>Verwachte prijs:</span> Onder voorbehoud, €59.90
                         </li>
-                        <li>
-                            <span>Levering aan de handel:</span> Via CB Culemborg
-                        </li>
                     </ul>
 
                     <p>Nadere informatie en eventuele reserveringen via <a href="mailto:info@phetradico.com" rel="noopener norefferer">info@phetradico.com</a></p>

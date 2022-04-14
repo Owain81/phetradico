@@ -13,9 +13,12 @@
 }
 
 .scroll__wrapper {
-    display: flex;
     margin-bottom: 2.5rem;
     color: var(--black);
+
+    @media (min-width: 48em) {
+        display: flex;
+    }
 
     ul {
         margin: 0;

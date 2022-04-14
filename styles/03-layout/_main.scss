@@ -10,6 +10,9 @@ main {
 picture {
   display: flex;
   align-items: center;
-  width: 350px;
   margin: 0 auto;
+
+  @media (min-width: 48em) {
+    width: 350px;
+  }
 }

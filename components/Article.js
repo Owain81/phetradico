@@ -7,7 +7,7 @@ export default function Article() {
             <article>
                 <h1>Van Amersfoortsch Beiersch tot Phoenix Brouwerij</h1>
                 <h2>Onno Kleefkens</h2>
-                <h3>In de winkel vanaf tweede helft mei</h3>
+                <h3>In de winkel vanaf september</h3>
 
                 <div className="scroll-container">
                 <div className="scroll__wrapper">

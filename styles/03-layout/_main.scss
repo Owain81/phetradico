@@ -4,7 +4,13 @@
 
 main {
   max-width: 914px;
-  margin: 0 auto; 
+  margin: 0 auto;
+}
+
+aside {
+  p {
+    max-width: 340px;
+  }
 }
 
 picture {
